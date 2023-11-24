@@ -5,7 +5,7 @@ const arrNames = [
   { id: 2, name: "Juan" },
   { id: 3, name: "Alba" },
   { id: 4, name: "Toby" },
-  { id: 5, name: "Lala" },
+  { id: 5, name: "Lalo" },
 ];
 
 const id_3 = arrNames.find(
